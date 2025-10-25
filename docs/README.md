@@ -20,3 +20,4 @@ Communication is structured and proactive. PM and PdM sync weekly; delivery team
 - [Release & Deployment Guide](./octoacme-release-and-deployment.md)
 - [Retrospective & Continuous Improvement](./octoacme-retrospective-and-continuous-improvement.md)
 - [Roles and Personas](./octoacme-roles-and-personas.md)
+- [Role Onboarding Checklist](./role-onboarding-checklist.md)
